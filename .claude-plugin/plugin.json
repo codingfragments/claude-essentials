@@ -1,0 +1,9 @@
+{
+  "name": "codingfragments-essentials",
+  "version": "0.1.0",
+  "description": "A toolkit of skills and methods for designing and planning documents and projects with Claude.",
+  "author": {
+    "name": "Stefan Marx",
+    "email": "stefan@marx-merten.de"
+  }
+}
