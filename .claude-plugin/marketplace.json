@@ -1,0 +1,13 @@
+{
+  "name": "codingfragments-local",
+  "owner": {
+    "name": "Stefan Marx"
+  },
+  "plugins": [
+    {
+      "name": "codingfragments-essentials",
+      "source": "./",
+      "description": "Local dev copy of codingfragments-essentials"
+    }
+  ]
+}
