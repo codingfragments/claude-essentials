@@ -1,9 +1,9 @@
 ---
-name: brainstorm
-description: Facilitate structured, collaborative brainstorming sessions using proven ideation techniques. Use when the user wants to brainstorm.
+name: structural-brainstorm
+description: Facilitate a multi-stage, structured ideation session — setup questions, divergent exploration with anti-bias domain pivots, then convergence and action planning. Use ONLY when the user explicitly asks for a "structural", "systemic", "deep", "thorough", or "facilitated" brainstorm, or otherwise signals they want a formal multi-step ideation process. Do NOT use for casual or quick requests like "let's brainstorm this quickly", "brainstorm some ideas", "brainstorm names for X", or any inline ideation in normal chat — handle those conversationally without invoking this skill.
 ---
 
-# Brainstorm
+# Structural Brainstorm
 
 ## Purpose
 
